@@ -1,0 +1,9 @@
+{
+    "name": "ChargerElectrocution",
+    "version_number": "1.0.0",
+    "website_url:": "https://identity-theft.github.io/",
+    "description": "Electrocute the player when charging conductive items.",
+    "dependencies": [
+        "Evaisa-HookGenPatcher-0.0.5"
+    ]
+}
